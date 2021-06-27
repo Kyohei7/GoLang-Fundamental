@@ -10,12 +10,12 @@ len("string")		-> u/ menghintung jumlah karakter string
 "string"[number]	-> u/ mengambil karakter posisi string
 */
 
-// package main
+package main
 
-// import "fmt"
+import "fmt"
 
-// func main() {
-// 	fmt.Println("Muhammad Rizki")
-// 	fmt.Println(len("Backend Developer")) // 17
-// 	fmt.Println("Jakarta Selatan"[0])     // 74byte dari J
-// }
+func main() {
+	fmt.Println("Muhammad Rizki")
+	fmt.Println(len("Backend Developer")) // 17
+	fmt.Println("Jakarta Selatan"[0])     // 74byte dari J
+}

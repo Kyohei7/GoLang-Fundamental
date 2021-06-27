@@ -1,4 +1,4 @@
-// Tipe Data Number di Bahasa GoLang
+// Tipe Data Number di Bahasa GoLang *case sensitif
 
 //	a. Integer
 //	Tipe Data			Nilai Min			Nilai Max
@@ -20,13 +20,13 @@
 //		int		->	min int32
 //		uint	->	min uint32
 
-// package main
+package main
 
-// import "fmt"
+import "fmt"
 
-// func main() {
-// 	fmt.Println("Angka Satu = ", 1)
-// 	fmt.Println("Angka Dua = ", 2)
-// 	fmt.Println("Angka Dua Koma Tiga = ", 2.3)
+func main() {
+	fmt.Println("Angka Satu = ", 1)
+	fmt.Println("Angka Dua = ", 2)
+	fmt.Println("Angka Dua Koma Tiga = ", 2.3)
 
-// }
+}

@@ -14,39 +14,39 @@
 
 */
 
-// package main
+package main
 
-// import "fmt"
+import "fmt"
 
-// func main() {
+func main() {
 
-// 	// Cara ke-1 untuk membuat Variabel
-// 	var nama string
-// 	nama = "Muhammad Rizki"
-// 	fmt.Println(nama)
-// 	// Mengubah Nilai Dari Variabel
-// 	nama = "Ethan Ramadhan"
-// 	fmt.Println(nama)
+	// Cara ke-1 untuk membuat Variabel
+	var nama string
+	nama = "Muhammad Rizki"
+	fmt.Println(nama)
+	// Mengubah Nilai Dari Variabel
+	nama = "Ethan Ramadhan"
+	fmt.Println(nama)
 
-// 	// Cara ke-2 untuk membuat Variabel
-// 	var namaLengkap = "Muhammad Rizki"
-// 	fmt.Println(namaLengkap)
-// 	namaLengkap = "Ethan Ramadhan"
-// 	fmt.Println(namaLengkap)
+	// Cara ke-2 untuk membuat Variabel
+	var namaLengkap = "Muhammad Rizki"
+	fmt.Println(namaLengkap)
+	namaLengkap = "Ethan Ramadhan"
+	fmt.Println(namaLengkap)
 
-// 	// Cara ke-3 untuk membuat Variabel
-// 	umur := 24
-// 	fmt.Println(umur)
-// 	// Mengubah Nilai dari Variabel
-// 	umur = 26
-// 	fmt.Println(umur)
+	// Cara ke-3 untuk membuat Variabel
+	umur := 24
+	fmt.Println(umur)
+	// Mengubah Nilai dari Variabel
+	umur = 26
+	fmt.Println(umur)
 
-// 	// Cara ke-4 untuk membuat Variabel
-// 	var (
-// 		namaDepan    = "Muhammad"
-// 		namaBelakang = "Rizki"
-// 	)
-// 	fmt.Println(namaDepan)
-// 	fmt.Println(namaBelakang)
+	// Cara ke-4 untuk membuat Variabel
+	var (
+		namaDepan    = "Muhammad"
+		namaBelakang = "Rizki"
+	)
+	fmt.Println(namaDepan)
+	fmt.Println(namaBelakang)
 
-// }
+}
